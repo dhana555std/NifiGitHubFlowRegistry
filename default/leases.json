@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1737699298343,
+    "description" : "Nifi Scheduler for Leases",
+    "identifier" : "leases",
+    "lastModifiedTimestamp" : 1737699298343,
+    "name" : "leases",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
